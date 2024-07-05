@@ -2,4 +2,5 @@
 
 int main(){
    printf("Hola mundo cruel :c");
+   printf("Adios mundo cruel");
    }
